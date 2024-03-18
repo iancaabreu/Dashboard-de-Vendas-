@@ -13,6 +13,6 @@ Afinal a pratica é importante assim como as outras fases do aprendizado...
 - Clientes
 - Produtos
   
-[Clique para acessar] 
+[Clique para acessar] https://lnkd.in/dMiZ-zh3
 
  
