@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <Vendedores>
+         <Vendedor>10501109-Marisa Lima</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/05/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10001206-Miguel Henrique</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/06/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595030-Eloá Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/08/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10001201-Cecília Castro</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/09/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501616-Ana Beatriz</Vendedor>
+         <Supervisor>Laennder Alves</Supervisor>
+         <Data_Contrato>06/09/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502804-Carlos Costa</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/10/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501609-Kaique Barros</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/11/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501618-Ana Luiza</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/11/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501302-Luís Gomes</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/11/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595156-Sophia Cardoso</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/12/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501202-Luiz Henrique</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/13/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501203-Ana Liz</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/14/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20101402-Clarice Azevedo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/17/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10508125-Pietro Sousa</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/18/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10101611-Maria Helena</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>06/19/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501306-Bruna Azevedo</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>06/19/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10514002-Heloise Souza</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/19/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501103-Davi Almeida</Vendedor>
+         <Supervisor>Laennder Alves</Supervisor>
+         <Data_Contrato>06/19/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502802-Melissa Cunha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/19/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10101603-Lucas Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10001205-Maria Laura</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501303-Bento Melo</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>06/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501610-Laís Goncalves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501107-Allana Melo</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>06/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501608-Ana Cecília</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>06/22/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20501312-Vicente Almeida</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>06/22/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501112-Maria Luiza</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>06/22/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501311-Théo Alves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/23/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501604-Davi Lucca</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>06/24/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20501308-Matheus Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/25/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501309-Sofia Ferreira</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>06/26/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501316-Pedro Miguel</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>06/26/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501204-Ian Correia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/27/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502800-Elisa Goncalves</Vendedor>
+         <Supervisor>Laennder Alves</Supervisor>
+         <Data_Contrato>07/02/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502815-Oliver Ferreira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/02/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20101317-Caleb Santos</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>07/05/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502803-Isaac Dias</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/05/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501318-Caio Rodrigues</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>07/12/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501605-Julia Sousa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/13/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10514077-Thaís Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/14/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502807-Martim Dias</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/18/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501408-Carlos Eduardo</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>07/18/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20095175-Arthur Correa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/20/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10508126-Daniel Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/23/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595176-Ana Lívia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/26/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501999-Lucca Santos</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/30/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595183-Kauan Castro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/24/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595185-Danilo Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/26/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10509998-Milena Cunha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/31/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195187-Luiz Otávio</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/01/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10095188-Ana Correia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/03/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195180-Tânia Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/07/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595181-Eduardo Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/03/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10507100-Davi Lucas</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>10/23/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595190-Pedro Lucas</Vendedor>
+         <Supervisor>Laennder Alves</Supervisor>
+         <Data_Contrato>10/25/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195193-Maria Alice</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>12/04/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195191-Fábio Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/13/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595192-Maria Eduarda</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/17/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595196-Henrique Oliveira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/22/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195195-Isadora Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/27/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595163-Maria Fernanda</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/28/2016</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195184-Leonor Martins</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/02/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595199-Vitór Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/07/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595194-João Carvalho</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>01/10/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595197-Emanuel Melo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/11/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595198-Júlia Cavalcanti</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>01/14/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595203-Evelyn Cardoso</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>01/20/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595201-Enzo Gabriel</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>02/04/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595204-Leila Castro</Vendedor>
+         <Supervisor>Laennder Alves</Supervisor>
+         <Data_Contrato>02/08/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595209-Bianca Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/26/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595206-Fernanda Gomes</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>03/27/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501301-Diogo Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/12/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10507999-Marina Dias</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/18/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501305-Samuel Lima</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/19/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501321-Analu Ferreira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/19/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502503-Maria Valentina</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>04/20/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501405-Joana Barros</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/20/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10504100-Francisco Cunha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/20/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501602-Maria Flor</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>05/05/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10514086-Julieta Rocha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/06/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501620-Benjamin Barbosa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/07/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195213-Sophie Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/17/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595212-Pedro Henrique</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/18/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20095211-Yasmin Costa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/19/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595215-Davi Miguel</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>08/14/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502808-Gustavo Almeida</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>08/15/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595214-Clara Ribeiro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/18/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501304-Júlio Costa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/26/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595216-Luis Castro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/26/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10506300-Isabella Azevedo</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>08/27/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595218-Luiz Felipe</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>08/30/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10505201-Arthur Miguel</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/30/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595217-Esther Barbosa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/31/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595221-Rodrigo Ribeiro</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>09/12/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595222-Laura Martins</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/23/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595219-Davi Luiz</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/07/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595225-Gabriela Souza</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>10/11/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10503505-Maria Clara</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>10/25/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595226-Carolina Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/30/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595230-Ayla Correia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/02/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595229-Luana Ferreira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/08/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195228-Beatriz Alves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/09/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595227-Ana Clara</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>12/02/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595234-Vinícius Gomes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/08/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595231-Isabelle Oliveira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/22/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595236-Arthur Gabriel</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>12/24/2017</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595239-Aline Castro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/08/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595240-Maria Cecília</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/24/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595242-Ryan Gomes</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>02/22/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595243-Thiago Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>02/22/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595233-José Cardoso</Vendedor>
+         <Supervisor>Karine Lago</Supervisor>
+         <Data_Contrato>04/09/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595237-Vitoria Costa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/04/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595246-Stella Oliveira</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>05/30/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10509996-Maya Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/02/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10095251-Tomás Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/11/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10095256-João Gabriel</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>06/15/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195250-Renan Rocha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/21/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595252-Bruno Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/23/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20095249-André Cardoso</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/25/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595247-Thomas Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/29/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595248-Isis Melo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/02/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595257-Heloísa Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/12/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10095259-Lorena Cavalcanti</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/21/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10501207-Alice Gomes</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>08/02/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595271-João Pedro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/21/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595270-Henry Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/22/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595273-Benício Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/16/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595260-Igor Azevedo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/17/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595232-João Lucas</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/23/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20095275-Arthur Henrique</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>09/23/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595267-Raissa Cunha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/01/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10502999-Victor Hugo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/21/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595278-Ana Júlia</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>11/07/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595279-Malu Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/15/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595272-Ana Sophia</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>11/23/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195262-Douglas Sousa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/24/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595283-Ana Vitória</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/10/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595277-Menino Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/11/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595286-Olívia Pereira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/13/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595284-Luiza Gomes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/16/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595288-Lívia Cunha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/18/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595285-Antônio Dias</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/19/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595281-Mateus Santos</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/21/2018</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595294-Diego Almeida</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/10/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595280-Erick Cunha</Vendedor>
+         <Supervisor>Matheus Siqueira</Supervisor>
+         <Data_Contrato>01/14/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595292-Carla Ribeiro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/18/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20095296-Manuela Azevedo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/24/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595300-Vitória Oliveira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/07/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595298-Luiz Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/09/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595253-Gabriel Dias</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/31/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195302-Breno Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/15/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195310-Joaquim Pereira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/14/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595312-Lorenzo Alves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/19/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595306-Alícia Rodrigues</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>05/22/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595303-Amanda Cavalcanti</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/02/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595307-Lucas Gabriel</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/06/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195308-João Miguel</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/20/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195314-Felipe Correa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>06/24/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595293-Marcos Pereira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/07/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595316-Catarina Barbosa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/18/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595317-Victor Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/23/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595320-Letícia Lima</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>07/24/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595321-Maria Sophia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/02/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595319-Leonardo Barros</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>08/10/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595318-Rafaela Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/11/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595325-Isabelly Cavalcanti</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/28/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595323-Luan Costa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/29/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595311-Aurora Sousa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>08/29/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595327-Helena Santos</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/07/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595326-Maria Heloísa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/09/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595333-Camila Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/13/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195331-Lara Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/16/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195328-Murilo Goncalves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/17/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195334-Gael Santos</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/24/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595330-Matilde Rocha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/27/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195332-Isabel Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/29/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595324-Antônia Goncalves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>09/30/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195335-Pedro Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/20/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595338-Levi Santos</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/23/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195343-Miguel Pereira</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/23/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195341-Antonella Correa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>10/31/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595340-Nicole Costa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/06/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195342-Louise Carvalho</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>11/24/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10095336-Ruan Silva</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/07/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195347-Isabela Souza</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>12/28/2019</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195344-Fernando Correia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/17/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195348-Larissa Alves</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/28/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195349-João Victor</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>01/31/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20595350-Tiago Castro</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>02/08/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195351-Gabrielle Pereira</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>03/24/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10503999-Enrico Araujo</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/24/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>20195337-Maria Júlia</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>03/30/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595282-Heitor Rodrigues</Vendedor>
+         <Supervisor>Lucas Pali</Supervisor>
+         <Data_Contrato>04/01/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10509999-Ana Laura</Vendedor>
+         <Supervisor>Ana Bento</Supervisor>
+         <Data_Contrato>04/01/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595238-Maria Rocha</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/03/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10595258-Eduarda Fernandes</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/07/2020</Data_Contrato>
+     </Vendedores>
+     <Vendedores>
+         <Vendedor>10195346-Giovanna Barbosa</Vendedor>
+         <Supervisor>Giovana Lopes</Supervisor>
+         <Data_Contrato>04/08/2020</Data_Contrato>
+     </Vendedores>
+ </root>
