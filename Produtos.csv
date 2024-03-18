@@ -1,0 +1,64 @@
+﻿Relatório de Produtos e Categorias;
+;
+Total de Categorias: 08;
+Total de Produtos: 46;
+;
+Cod.Produto;Produto
+Categoria:;Soja
+SOJ046;Soja 1L
+;
+Categoria:;Bebidas
+BEB010;Suco Uva 1L
+BEB009;Suco Tangerina 1L
+BEB007;Suco Maracuja 1L
+BEB002;Bebida Lactea 200mL
+BEB001;Bebida Lactea 1L
+BEB005;Suco Laranja 1L
+BEB008;Suco Pessêgo 1L
+BEB003;Iogurte
+BEB006;Suco Manga 1L
+BEB004;Suco Goiaba 1L
+;
+Categoria:;Chocolate
+CHO011;Achocolatado em pó
+CHO014;Chocolate 1L
+CHO013;Choc Zero 200 Ml
+CHO012;Choc Zero 1L
+CHO015;Chocolate 200 Ml
+Categoria:;Creme de Leite
+CRE017;Creme 200 Gr
+CRE019;Creme Zero 200 Gr
+CRE018;Creme Granel
+CRE016;Creme 1 Kg
+;
+Categoria:;Leite Magro
+LEI020;Leite Desnatado
+LEI021;Leite Semi
+LEI023;Leite Zero Lactose
+LEI022;Leite Integral
+;
+Categoria:;Manteiga
+MAN025;Manteiga Sem Sal
+MAN024;Manteiga Com Sal
+;
+Categoria:;Queijo
+QUE035;Provolone 40 Kg
+QUE045;Ricota Sem Pimenta
+QUE027;Gorgonzola 3 Kg
+QUE043;Ricota Frac. Com Pimenta
+QUE040;Provolone Provóla 200 GR
+QUE042;Ricota Com Pimenta
+QUE030;Parmesão Fracionado
+QUE031;Provolone 1 Kg
+QUE038;Provolone Fracionado
+QUE041;Provolonete 400 Gr
+QUE026;Aparas P/ Ralar
+QUE036;Provolone 5 Kg
+QUE033;Provolone 100 Kg
+QUE034;Provolone 20 Kg
+QUE044;Ricota Frac. Sem Pimenta
+QUE032;Provolone 10 Kg
+QUE037;Provolone 8 Kg
+QUE039;Provolone Provóla 2,5 Kg
+QUE028;Mussarela 4 Kg
+QUE029;Parmesao 8 Kg
